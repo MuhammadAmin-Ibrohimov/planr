@@ -1,2 +1,2 @@
-# planr
+# plant
 plant disease detection 
